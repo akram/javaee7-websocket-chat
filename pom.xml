@@ -6,7 +6,7 @@
     <groupId>com.hascode.tutorial</groupId>
     <artifactId>javaee7-websocket-chat</artifactId>
     <version>1.0.0</version>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
 
     <name>javaee7-websocket-chat</name>
     <description>
