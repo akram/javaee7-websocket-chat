@@ -372,7 +372,7 @@
                 <profile.depends>wildfly</profile.depends>
             </properties>
             <build>
-                <finalName>${project.artifactId}-${project.version}.${project.packaging}</finalName>
+                <finalName>${project.artifactId}-${project.version}-swarm.${project.packaging}</finalName>
                 <plugins>
                     <plugin>
                         <groupId>org.wildfly.swarm</groupId>
